@@ -1,2 +1,3 @@
 # 2DGame-RobbiePlatform
 横板2D游戏
+跟着B站UP主M_studio学习制作的一个拥有各种基本功能的2D游戏
